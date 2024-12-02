@@ -1,0 +1,142 @@
+@font-face {
+    font-family: 'PF DinDisplay Pro';
+    src: url('../fonts/PFDinDisplayPro-BoldItalic.eot');
+    src: local('PFDinDisplayPro-BoldItalic'),
+        url('../fonts/PFDinDisplayPro-BoldItalic-1.eot') format('embedded-opentype'),
+        url('../fonts/PFDinDisplayPro-BoldItalic.woff') format('woff'),
+        url('../fonts/PFDinDisplayPro-BoldItalic.ttf') format('truetype');
+    font-weight: bold;
+    font-style: italic;
+}
+
+@font-face {
+    font-family: 'PF DinDisplay Pro';
+    src: url('../fonts/PFDinDisplayPro-BlackItalic.eot');
+    src: local('PFDinDisplayPro-BlackItalic'),
+        url('../fonts/PFDinDisplayPro-BlackItalic-1.eot') format('embedded-opentype'),
+        url('../fonts/PFDinDisplayPro-BlackItalic.woff') format('woff'),
+        url('../fonts/PFDinDisplayPro-BlackItalic.ttf') format('truetype');
+    font-weight: 900;
+    font-style: italic;
+}
+
+@font-face {
+    font-family: 'PF DinDisplay Pro';
+    src: url('../fonts/PFDinDisplayPro-Thin.eot');
+    src: local('PFDinDisplayPro-Thin'),
+        url('../fonts/PFDinDisplayPro-Thin-1.eot') format('embedded-opentype'),
+        url('../fonts/PFDinDisplayPro-Thin.woff') format('woff'),
+        url('../fonts/PFDinDisplayPro-Thin.ttf') format('truetype');
+    font-weight: 100;
+    font-style: normal;
+}
+
+@font-face {
+    font-family: 'PF DinDisplay Pro';
+    src: url('../fonts/PFDinDisplayPro-ThinItalic.eot');
+    src: local('PFDinDisplayPro-ThinItalic'),
+        url('../fonts/PFDinDisplayPro-ThinItalic-1.eot') format('embedded-opentype'),
+        url('../fonts/PFDinDisplayPro-ThinItalic.woff') format('woff'),
+        url('../fonts/PFDinDisplayPro-ThinItalic.ttf') format('truetype');
+    font-weight: 100;
+    font-style: italic;
+}
+
+@font-face {
+    font-family: 'PF DinDisplay Pro';
+    src: url('../fonts/PFDinDisplayPro-Italic.eot');
+    src: local('PFDinDisplayPro-Italic'),
+        url('../fonts/PFDinDisplayPro-Italic-1.eot') format('embedded-opentype'),
+        url('../fonts/PFDinDisplayPro-Italic.woff') format('woff'),
+        url('../fonts/PFDinDisplayPro-Italic.ttf') format('truetype');
+    font-weight: normal;
+    font-style: italic;
+}
+
+@font-face {
+    font-family: 'PF DinDisplay Pro';
+    src: url('../fonts/PFDinDisplayPro-MediumItalic.eot');
+    src: local('PFDinDisplayPro-MediumItalic'),
+        url('../fonts/PFDinDisplayPro-MediumItalic-1.eot') format('embedded-opentype'),
+        url('../fonts/PFDinDisplayPro-MediumItalic.woff') format('woff'),
+        url('../fonts/PFDinDisplayPro-MediumItalic.ttf') format('truetype');
+    font-weight: 500;
+    font-style: italic;
+}
+
+@font-face {
+    font-family: 'PF DinDisplay Pro';
+    src: url('../fonts/PFDinDisplayPro-LightItalic.eot');
+    src: local('PFDinDisplayPro-LightItalic'),
+        url('../fonts/PFDinDisplayPro-LightItalic-1.eot') format('embedded-opentype'),
+        url('../fonts/PFDinDisplayPro-LightItalic.woff') format('woff'),
+        url('../fonts/PFDinDisplayPro-LightItalic.ttf') format('truetype');
+    font-weight: 300;
+    font-style: italic;
+}
+
+@font-face {
+    font-family: 'PF DinDisplay Pro';
+    src: url('../fonts/PFDinDisplayPro-Black.eot');
+    src: local('PFDinDisplayPro-Black'),
+        url('../fonts/PFDinDisplayPro-Black-1.eot') format('embedded-opentype'),
+        url('../fonts/PFDinDisplayPro-Black.woff') format('woff'),
+        url('../fonts/PFDinDisplayPro-Black.ttf') format('truetype');
+    font-weight: 900;
+    font-style: normal;
+}
+
+@font-face {
+    font-family: 'PF DinDisplay Pro';
+    src: url('../fonts/PFDinDisplayPro-Regular.eot');
+    src: local('PFDinDisplayPro-Regular'),
+        url('../fonts/PFDinDisplayPro-Regular-1.eot') format('embedded-opentype'),
+        url('../fonts/PFDinDisplayPro-Regular.woff') format('woff'),
+        url('../fonts/PFDinDisplayPro-Regular.ttf') format('truetype');
+    font-weight: normal;
+    font-style: normal;
+}
+
+@font-face {
+    font-family: 'PF DinDisplay Pro';
+    src: url('../fonts/PFDinDisplayPro-Light.eot');
+    src: local('PFDinDisplayPro-Light'),
+        url('../fonts/PFDinDisplayPro-Light-1.eot') format('embedded-opentype'),
+        url('../fonts/PFDinDisplayPro-Light.woff') format('woff'),
+        url('../fonts/PFDinDisplayPro-Light.ttf') format('truetype');
+    font-weight: 300;
+    font-style: normal;
+}
+
+@font-face {
+    font-family: 'PF DinDisplay Pro';
+    src: url('../fonts/PFDinDisplayPro-Bold.eot');
+    src: local('PFDinDisplayPro-Bold'),
+        url('../fonts/PFDinDisplayPro-Bold-1.eot') format('embedded-opentype'),
+        url('../fonts/PFDinDisplayPro-Bold.woff') format('woff'),
+        url('../fonts/PFDinDisplayPro-Bold.ttf') format('truetype');
+    font-weight: bold;
+    font-style: normal;
+}
+
+@font-face {
+    font-family: 'PF DinDisplay Pro';
+    src: url('../fonts/PFDinDisplayPro-Medium.eot');
+    src: local('PFDinDisplayPro-Medium'),
+        url('../fonts/PFDinDisplayPro-Medium-1.eot') format('embedded-opentype'),
+        url('../fonts/PFDinDisplayPro-Medium.woff') format('woff'),
+        url('../fonts/PFDinDisplayPro-Medium.ttf') format('truetype');
+    font-weight: 500;
+    font-style: normal;
+}
+
+@font-face {
+	font-family: 'Lobster';
+	src: url('../fonts/Lobster.eot');
+	src: local('Lobster Regular'), local('Lobster'),
+		url('../fonts/Lobster-1.eot') format('embedded-opentype'),
+		url('../fonts/Lobster.woff') format('woff'),
+		url('../fonts/Lobster.ttf') format('truetype');
+	font-weight: normal;
+	font-style: normal;
+}

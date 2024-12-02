@@ -1,0 +1,3044 @@
+/*==========  Desktop First Method  ==========*/
+
+/* Large Devices, Wide Screens */
+@media only screen and (max-width : 1200px) {
+  .top_menu .m_dbl {
+    width: auto;  
+  }
+  
+
+.video .thumb-wrap .img_video {
+	margin-top: -66px;
+}
+/***********/
+.carousel-design .design_block .d_right {
+	width: 100%;
+	max-width: 500px;
+	padding-right: 0px;
+}
+
+/************************************/
+.menu .main li .sub li:hover .l2 {
+	left: 243px;
+}
+.menu .main li .sub {
+	top: 79px;
+}
+
+/******************************************/
+.bal100{
+ background: rgb(255,194,0);
+background: linear-gradient(0deg, rgba(255,194,0,1) 0%, rgba(255,232,0,1) 46%, rgba(255,217,0,1) 100%);   
+height: auto;
+padding-bottom: 30px;
+}  
+  
+/********************/
+.video .video_block .vid_right {
+	width: 100%;
+	max-width: 559px;
+	padding-bottom: 45px;
+}
+
+
+/*************************************/
+
+.f5min .f5_block .razmetka1{
+    margin-bottom: 20px;
+}
+/*************************************/
+
+.fsh .f5_block .razmetka1{
+    margin-bottom: 20px;
+}
+/*************************************/
+
+.ftp .f5_block .razmetka1{
+    margin-bottom: 20px;
+}
+
+/****************************************/
+.vygodno .tab .vy_dop{
+    max-width: 269px;
+}
+  
+.vygodno .tab .vy_hh {
+	font-size: 23px;
+}  
+
+/******************************************/
+.carousel-ogal.owl-theme .owl-controls .owl-nav [class*="owl-"] {
+    position: relative;
+    top:auto;
+    margin-top: 0px;
+    margin-left: 10px;
+    margin-right: 10px;
+}
+
+.carousel-ogal.owl-theme .owl-controls .owl-nav .owl-prev{
+    left: auto;
+}
+
+.carousel-ogal.owl-theme .owl-controls .owl-nav .owl-next{
+      right: auto;
+}
+
+.carousel-ogal.owl-theme .owl-controls .owl-nav {
+    display: flex;
+    justify-content: center;
+        
+}
+/******************************************/
+.carousel-texgal.owl-theme .owl-controls .owl-nav [class*="owl-"] {
+    position: relative;
+    top:auto;
+    margin-top: 0px;
+    margin-left: 10px;
+    margin-right: 10px;
+}
+
+.carousel-texgal.owl-theme .owl-controls .owl-nav .owl-prev{
+    left: auto;
+}
+
+.carousel-texgal.owl-theme .owl-controls .owl-nav .owl-next{
+      right: auto;
+}
+
+.carousel-texgal.owl-theme .owl-controls .owl-nav {
+    display: flex;
+    justify-content: center;
+        
+}
+/******************************************/
+.carousel-dop.owl-theme .owl-controls .owl-nav [class*="owl-"] {
+    position: relative;
+    top:auto;
+    margin-top: 0px;
+    margin-left: 10px;
+    margin-right: 10px;
+}
+
+.carousel-dop.owl-theme .owl-controls .owl-nav .owl-prev{
+    left: auto;
+}
+
+.carousel-dop.owl-theme .owl-controls .owl-nav .owl-next{
+      right: auto;
+}
+
+.carousel-dop.owl-theme .owl-controls .owl-nav {
+    display: flex;
+    justify-content: center;
+        
+}
+/******************************************/
+.carousel-vbb.owl-theme .owl-controls .owl-nav [class*="owl-"] {
+    position: relative;
+    top:auto;
+    margin-top: 0px;
+    margin-left: 10px;
+    margin-right: 10px;
+}
+
+.carousel-vbb.owl-theme .owl-controls .owl-nav .owl-prev{
+    left: auto;
+}
+
+.carousel-vbb.owl-theme .owl-controls .owl-nav .owl-next{
+      right: auto;
+}
+
+.carousel-vbb.owl-theme .owl-controls .owl-nav {
+    display: flex;
+    justify-content: center;
+        
+}
+/************************************/
+.gift {
+    background: #ffdd00;
+    height: auto;
+    padding-bottom: 20px;
+}
+
+.gift .razmetka1{
+    max-width: 285px;
+}
+
+/******************************************/
+.carousel-pro.owl-theme .owl-controls .owl-nav [class*="owl-"] {
+    position: relative;
+    top:auto;
+    margin-top: 0px;
+    margin-left: 10px;
+    margin-right: 10px;
+}
+
+.carousel-pro.owl-theme .owl-controls .owl-nav .owl-prev{
+    left: auto;
+}
+
+.carousel-pro.owl-theme .owl-controls .owl-nav .owl-next{
+      right: auto;
+}
+
+.carousel-pro.owl-theme .owl-controls .owl-nav {
+    display: flex;
+    justify-content: center;
+        
+}
+/*********************************/
+.video .carousel-video.owl-theme .owl-controls {
+	left: 75px;
+}
+.video .video_block .vid_right {
+	width: 100%;
+	max-width: 559px;
+}
+
+/****************************************************/
+
+.carousel-resh .owl-nav{
+    display: flex;
+    justify-content: center;
+}
+
+.carousel-resh.owl-theme .owl-controls .owl-nav [class*="owl-"] {
+    position: relative;
+    top: auto;
+    margin-top: 0px;
+    margin-left: 10px;
+    margin-right: 10px;
+}
+
+.carousel-resh.owl-theme .owl-controls .owl-nav .owl-prev{
+    left: auto;
+}
+
+.carousel-resh.owl-theme .owl-controls .owl-nav .owl-next{
+    right: auto;
+}
+
+/******************************************/
+.carousel-comp.owl-theme .owl-controls .owl-nav [class*="owl-"] {
+    position: relative;
+    top:auto;
+    margin-top: 0px;
+    margin-left: 10px;
+    margin-right: 10px;
+}
+
+.carousel-comp.owl-theme .owl-controls .owl-nav .owl-prev{
+    left: auto;
+}
+
+.carousel-comp.owl-theme .owl-controls .owl-nav .owl-next{
+      right: auto;
+}
+
+.carousel-comp.owl-theme .owl-controls .owl-nav {
+    display: flex;
+    justify-content: center;
+        
+}
+
+
+/**************************************/
+.obanner .banner_block .ban_hh1{
+    padding-left: 0px;
+}
+
+.obanner .banner_block .ccc{
+    padding-left: 0px;    
+}
+
+.obanner .ban_calc_link {
+	padding-left: 110px;
+}
+
+.obanner .banner_block .ban_msg {
+	padding-left: 171px;
+}
+
+/***************************************/
+.lam .lam_main .l_block img{
+  width: 107px;  
+}
+
+/***************************************/
+
+.zag .dtab{
+    margin-top: 20px;
+}
+
+/******************************************/
+
+.carousel-design .design_block .d_right .hh{
+    margin-top: 20px;
+    text-align: center;
+}
+
+/*******************/
+.sklad .bb_block {
+	max-width: 714px;
+	width: 100%;
+}
+/*******************/
+.ssm h2 {
+	text-align: right;
+}
+
+/*******************/
+.links1 .block .txt div,
+.ls .lnk .block .txt .y,
+.rdoor .ostek_block .ostek_bb .y{
+        min-height: auto;
+}
+
+/***********************/
+.sov2 .hh{
+    text-align: center;
+}
+
+.sov2 .bl{
+    padding-left: 10px;
+    padding-right: 10px;
+}
+
+.sov2 p{
+    text-align: center;
+}
+
+.sov2 .item{
+    margin-left: 10px;
+    margin-right: 10px;
+}
+
+/********************************/
+.zvv{
+background:#d7210e;
+padding-bottom: 30px;
+
+}
+.zvv .oplata_flex {
+	justify-content: center;
+            padding-left: 10px;
+    padding-right: 10px;
+}
+
+
+.zvv ul{
+
+}
+
+.rstp .rstp_block {
+	max-width: 664px;
+}
+
+/********************/
+.colo ul {
+    margin-left: auto;
+    margin-right: auto;
+    max-width: 575px;
+    padding-left: 10px;
+    padding-right: 10px;
+}
+/********************/
+.alo ul {
+    margin-left: auto;
+    margin-right: auto;
+    max-width: 575px;
+    padding-left: 10px;
+    padding-right: 10px;
+}
+
+
+/**********************/
+.sho .rstp_block {
+	max-width: 514px;
+
+}
+/************/
+.faq{
+    margin-top: -20px;
+}
+/********************************/
+.koco .block1{
+    margin-top: 20px;
+}
+
+/*****************************/
+.cov .ccc{
+    justify-content: center;
+}
+.cov .hh_block{
+    text-align: center;
+}
+
+
+
+}
+
+/* Medium Devices, Desktops */
+@media only screen and (max-width : 992px) {
+
+/********************/
+.video .video_block .vid_right {
+	padding-bottom: 0px;
+}
+
+.video .video_block .vid_left {
+	padding-bottom: 80px;
+}
+
+/*****************************/
+
+    .top_menu .flex{
+        flex-wrap: wrap;
+        justify-content: center;
+       
+    }
+    
+    .top_menu{
+        display: none;
+    }
+/**********************/
+.header .div_logo{
+    padding-top: 15px;
+    padding-bottom: 15px;
+}
+    
+.header .h_left{
+    display: none;
+}
+/******************************************/
+.show_f{
+    display:flex !important;
+}
+
+.menu{
+ background: #d7210e;
+}
+.menu .container{
+    width: 100%;
+}
+
+
+.menu .main .mobile{
+   /* display: flex;*/
+     background: #d7210e;   
+}
+
+.menu .main{
+    display: block;
+    width: 100%;
+    margin-left: auto;
+    margin-right: auto;  
+
+}
+
+.menu .main li{
+    display: none;
+    font-size: 18px;
+    padding-top: 5px;
+    padding-bottom: 5px;    
+    background: #edf1fa;
+}
+
+.menu .main li .sub li:hover{
+    background: none;
+}
+
+.menu .main li .sub li:hover a{
+    color:#333;
+}
+
+
+.menu .main li .sub li:hover .l2,
+.menu .main li .sub li .l2,
+.menu .main li .sub{
+    background: none;
+    border-left: none;
+    position:relative;
+    display: block;
+    left: auto;
+    top: auto;
+    padding-left: 0px;
+}
+
+.menu .main li .sub li{
+    display: block;
+    padding-top: 5px;
+    padding-bottom: 5px;    
+padding-left: 35px;
+}
+
+.menu .main .li1 div{
+    background: url('../img/li1.png') no-repeat left center;
+   padding-left: 35px;
+}
+
+
+.menu .main .li2 div {
+	background: url('../img/li2.png') no-repeat -20px center;
+	padding-left: 35px;
+}
+
+.menu .main .li3 div {
+	background: url('../img/li3.png') no-repeat -35px center;
+	padding-left: 35px;
+}
+
+.menu .main .li4 div {
+	background: url('../img/li4.png') no-repeat -28px center;
+	padding-left: 35px;
+	padding-top: 15px;
+	padding-bottom: 15px;
+}
+
+.menu .main .sub,
+.menu .main .li1 div,
+.menu .main .li2 div,
+.menu .main .li3 div,
+.menu .main .li4 div{
+width: 100%;
+max-width: 310px;
+margin-left: auto;
+margin-right: auto;
+    
+}
+
+.menu .main .li1 div,
+.menu .main .li2 div,
+.menu .main .li3 div,
+.menu .main .li4 div{
+    font-size: 19px;
+    font-weight: bold;
+    text-transform: none;
+    padding-right: 0px;
+        padding-top: 8px;
+    padding-bottom: 8px;
+}
+
+.menu .main li.li4 .sub {
+	width: 100%;
+}
+
+
+.menu .main .li1,
+.menu .main .li2,
+.menu .main .li3{
+    border-bottom: 1px solid #fff;
+} 
+
+.menu .main .mobile .mbz {
+	font-size: 13px;
+
+}
+
+
+/************************************/
+.banner .banner_block{
+    margin-left: auto;
+    margin-right: auto;
+}
+
+/**************************************/
+.oplata{
+    background: #d7210e;
+    height: auto;
+    padding-bottom: 20px;
+}
+
+.oplata .oplata_flex{
+    justify-content: center;
+}
+/**************************************/
+.bb{
+    background: #d7210e;
+    height: auto;
+    padding-bottom: 20px;
+}
+
+.bb .bb_flex{
+    justify-content: center;
+}
+/**************************************/
+.vzp{
+    background: #d7210e;
+    height: auto;
+    padding-bottom: 20px;
+}
+
+.vzp .bb_flex{
+    justify-content: center;
+}
+
+.vzp .bb_block{
+    padding-left: 10px;
+    padding-right: 10px;
+}
+/**************************************/
+.vtp{
+    background: #d7210e;
+    height: auto;
+    padding-bottom: 20px;
+}
+
+.vtp .bb_flex{
+    justify-content: center;
+}
+
+.vtp .bb_block{
+    padding-left: 10px;
+    padding-right: 10px;
+}
+/**************************************/
+.vel{
+    background: #d7210e;
+    height: auto;
+    padding-bottom: 20px;
+}
+
+.vel .bb_flex{
+    justify-content: center;
+}
+
+.vel .bb_block{
+    padding-left: 10px;
+    padding-right: 10px;
+}
+
+/**************************************/
+.osl{
+    background: #88633e;
+    height: auto;
+    padding-bottom: 20px;
+}
+
+.osl .osl_flex{
+    justify-content: center;
+}
+   
+/**********************************/
+.prof .flex{
+    flex-wrap: wrap;
+}
+
+
+/****************************************************/
+.prof_conf .sw_block .bl_pl, .prof_conf .sw_block .bl_al{
+    width: 229px;
+}
+.prof_conf .bal_conf {
+	justify-content: center;
+	flex-direction: column-reverse;
+}
+
+.prof_conf .point1, 
+.prof_conf .point2{
+    display: none;
+}
+
+
+.prof_conf .bal_left .bal_bg{
+    margin-top: 30px;
+}
+
+/******************************************/
+.bal100 .b100_flex1 {
+	flex-wrap: wrap;
+}
+
+/********************************************/
+
+.f5min .f5_block{
+    flex-direction: column;
+    padding-left: 15px;
+    padding-right: 15px;
+}
+
+.f5min .f5_block .razmetka1{
+    margin-left: auto;
+    margin-right: auto;
+}
+/********************************************/
+
+.fsh .f5_block{
+    flex-direction: column;
+    padding-left: 15px;
+    padding-right: 15px;
+}
+
+.fsh .f5_block .razmetka1{
+    margin-left: auto;
+    margin-right: auto;
+}
+/********************************************/
+
+.ftp .f5_block{
+    flex-direction: column;
+    padding-left: 15px;
+    padding-right: 15px;
+}
+
+.ftp .f5_block .razmetka1{
+    margin-left: auto;
+    margin-right: auto;
+}
+
+/************************************************/
+.z_price{
+   background: #ffcc00;
+   height: auto;
+   padding-top: 30px;
+   padding-bottom: 30px;
+}
+
+.z_price .zp_flex{
+    justify-content: center;
+}
+
+.z_price .ten{
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    margin-top: 20px;
+}
+
+/****************************************/
+.vygodno .tab .vy_dop.vy_1{
+    display: none;
+}
+
+/*******************************************/
+
+.zr .zr_flex{
+    flex-wrap: wrap;
+}
+
+/***********************************************/
+
+.carousel-pro .pro_block{
+    flex-wrap: wrap;
+}
+
+.projects .btn3{
+    margin-right: auto;
+    margin-left: auto;
+}
+
+.carousel-pro .pro_block .pro_right{
+    padding: 15px;
+}
+
+/*****************************************/
+.video .video_block{
+    display: block;
+    padding-bottom: 30px;
+}
+
+.video .video_block .vid_left{
+    text-align: center;
+}
+
+.video .video_block .vid_right{
+    margin-left: auto;
+    margin-right: auto;
+}
+
+
+.video .carousel-video.owl-theme .owl-controls {
+    left: 50%;
+    margin-left: -124px;
+    top: 234px;
+}
+
+/****************************************/
+.footer .b_menu{
+    display: none;
+}
+
+.footer .last_line{
+    justify-content: space-around;
+    flex-wrap: wrap;
+}
+
+
+/*********************************************/
+.provedal .provedal_blocks{
+    flex-wrap: wrap;
+}
+
+.provedal .provedal_block{
+    margin-bottom: 30px
+}
+
+/*************************************/
+.features .flex{
+    flex-wrap: wrap;
+}
+
+/*****************************/
+.polutep .polutep_block{
+    flex-wrap: wrap;
+}
+
+.polutep .polutep_block .polutep_info{
+    margin-top: 20px;
+}
+
+/********************************/
+
+.fea_teplo .important{
+    background: none;
+    height: auto;
+    padding-left: 5px;
+    padding-right: 5px;
+}
+
+/********************************/
+
+.fea_fr .important{
+    background: none;
+    height: auto;
+    padding-left: 5px;
+    padding-right: 5px;
+}
+
+
+/**************************************/
+.et_utep .etu_blocks{
+    flex-wrap: wrap;
+}
+/*****************************************/
+.et_vyn .etu_blocks{
+    flex-wrap: wrap;
+}
+/*****************************************/
+.et_kom .etu_blocks{
+    flex-wrap: wrap;
+}
+/*****************************************/
+.et_roof .etu_blocks{
+    flex-wrap: wrap;
+}
+/*****************************************/
+.colors .etu_blocks{
+    flex-wrap: wrap;
+}
+
+.pokr .pokr_blocks{
+    flex-wrap: wrap;
+}
+
+/****************************************/
+.rassr{
+    padding-left: 15px;
+    padding-right: 15px;
+}
+.rassr .rassr_mblock .rassr_mleft{
+    display: none;
+}
+
+.rassr .rassr_mblock .rassr_mright .rassr_block .rassr_lblock{
+line-height: 55px;
+font-size: 65px;
+}
+
+
+.rassr .rassr_mblock .rassr_mright .rassr_block .rassr_rblock{
+    font-size: 21px;
+    padding-left: 20px;
+}
+
+.rassr .rassr_mblock .rassr_mright .rassr_block {
+	padding-top: 30px;
+}
+
+.rassr h2 {
+	padding-top: 45px;
+	font-size: 24px;
+}
+
+.rassr .t_tel {
+	font-size: 35px;
+}
+
+
+/*********************************/
+.calc .calc_main{
+    flex-wrap: wrap;
+}
+
+.calc .calc_main .calc_right{
+    margin-top: 30px;
+}
+
+.calc .vert {
+	margin-left: 50px;
+}
+
+
+/******************************/
+
+.g_okna .go_blocks{
+    flex-wrap: wrap;
+}
+
+
+/**************************************/
+.links .str_block{
+    flex-wrap: wrap;
+}
+
+.links .str_block.rev {
+	flex-direction: column-reverse;
+}
+
+.links .str_block.rev .links_imgblock {
+	margin-left: auto;
+	margin-right: auto;
+}
+.links .str_block.rev .links_txtblock {
+	margin-left: auto;
+	margin-right: auto;
+}
+
+/*********************************************/
+.otz .otz_form{
+    flex-wrap: wrap;
+}
+
+.otz .otz_form .otzf_block h2{
+    text-align: center;
+}
+.otz .otz_form .bl2 .razmetka1{
+    margin-left: 15px;
+    margin-right: 15px;
+}
+
+.otz .otz_form .bl2{
+    padding-right: 0px;
+    margin-left: 15px;
+margin-right: 15px;
+}
+.otz .otz_form .bl2 .razmetka1 {
+	 margin-left: 0px; 
+	 margin-right: 0px; 
+}
+
+/*****************************/
+
+.obanner{
+    height: auto;
+    background: none;
+}
+
+.obanner .banner_block .ban_hh1{
+    text-align: center;
+}
+
+
+.obanner .banner_block .ccc{
+    margin-left: auto;
+    margin-right: auto;
+}
+
+.obanner .ban_calc_link{
+    padding-left: 0px;
+    text-align: center;
+}
+
+.obanner .banner_block .ban_msg {
+	padding-left: 0px;
+        text-align: center;
+}
+
+/******************************/
+.lam .lam_main {
+	background: no-repeat;
+	height: auto;
+	flex-wrap: wrap;
+}
+
+.lam .lam_main .l_block img {
+	width: 111px;
+}
+
+.lam .lam_main .l_vars_blocks {
+	margin-bottom: 20px;
+}
+
+/*********************************/
+
+.contacts .cont_blocks{
+    flex-wrap: wrap;
+    
+}
+
+.contacts .cont_blocks .cont_block{
+     max-width: 900px;
+     height: auto;
+     padding-bottom: 20px;
+     padding-left: 15px;
+     padding-right: 15px;
+}
+
+.contacts .cont_blocks .cont_block.brd{
+    border: none;
+}
+
+
+/**********************************/
+
+.time{
+    background: none;
+}
+/**********************************/
+
+.dom{
+    background: #f3f3f4;
+    
+}
+
+/*************************************/
+.bconfig .conf{
+    flex-wrap: wrap;
+     margin-left: 0px;
+}
+
+/******************************************/
+
+
+.dao .m_block{
+    background: none;
+        padding-left: 10px;
+    padding-right: 10px;
+        margin-top: 0px;
+}
+
+.dao .m_block .dao_blocks{
+    flex-wrap: wrap;
+
+}
+/******************************************/
+
+.daban .m_block{
+    background: none;
+        padding-left: 10px;
+    padding-right: 10px;
+        margin-top: 0px;
+}
+
+.daban .col-md-12 > p {
+    padding-left: 15px;padding-right: 15px;
+}
+/******************************************/
+
+.mansok .m_block{
+    background: none;
+        padding-left: 10px;
+    padding-right: 10px;
+        margin-top: 0px;
+}
+
+.mansok .col-md-12 > p {
+    padding-left: 15px;padding-right: 15px;
+}
+/******************************************/
+
+.ror .m_block{
+    background: none;
+        padding-left: 10px;
+    padding-right: 10px;
+        margin-top: 0px;
+}
+
+.ror .col-md-12 > p {
+    padding-left: 15px;padding-right: 15px;
+}
+/******************************************/
+
+.evars .m_block{
+    background: none;
+        padding-left: 10px;
+    padding-right: 10px;
+   
+}
+
+.evars .col-md-12 > p {
+    padding-left: 15px;padding-right: 15px;
+}
+
+/******************************************/
+.dadoors .m_block {
+    padding-left: 15px;padding-right: 15px;
+}
+/***************************/
+.zag .dtab .msg {
+	position: relative;
+	right: auto;
+	bottom: auto;
+	width: 100%;
+	max-width: 850px;
+}
+.zag .dtab .msg .hh{
+    text-align: center;
+}
+
+.zag .dtab .flex{
+    flex-wrap: wrap;
+        
+}
+
+.zag .dtab .msg  .item{
+    width: 215px;
+}
+
+/*************************/
+.pwhy .block.pic{
+    order: -1;
+}
+/*********************/
+.mpbn{
+background: #f5f5f5;
+}
+
+/************************/
+.elp .br{
+    display: none;
+}
+/************************/
+.pepp .br{
+    display: none;
+}
+/************************/
+.kpm .br{
+    display: none;
+}
+
+/********************************/
+.pul .block.uuu{
+    margin-top: 0px;
+}
+
+/****************************/
+.sklad{
+    margin-top:  40px;
+    padding-bottom: 20px;
+    background: #d7210e;
+    padding-left: 10px;
+    padding-right: 10px;
+
+}
+/***********************/
+.ssm h2 {
+	text-align: center;
+}
+
+.ssm{
+    background: #d7210e
+}
+.ssm .bb_block {
+    max-width: 100%;
+}       
+.ssm .block{
+
+    margin-top: 20px;
+}
+
+.header .h_right1 {
+	margin-top: 20px;
+}
+
+/********************/
+.pmb .hh{
+    padding-left: 10px;
+    padding-right: 10px;
+    text-align: center;
+}
+
+/*********************/
+.vpod .bl,
+.vpod .di{
+    padding-left: 10px;
+    padding-right: 10px;
+}
+
+/**********************/
+.msnf{
+    background: #f3f3f4;
+    padding-left: 10px;
+    padding-right: 10px;
+}
+.msnf .b2{
+  	
+        justify-content: center
+}
+
+
+
+/*****************/
+.rstp{
+    background: #d7210e;
+    height: auto;
+    padding-bottom: 30px;
+    padding-left: 10px;
+    padding-right: 10px;
+}
+
+.rstp .rstp_block{
+    max-width: 100%;
+}
+
+.rstp .hh {
+	font-size: 34px;
+
+}
+/*****************/
+.sho{
+    background: #d7210e;
+    height: auto;
+    padding-bottom: 30px;
+    padding-left: 10px;
+    padding-right: 10px;
+}
+
+.sho .rstp_block{
+    max-width: 100%;
+}
+
+.sho .hh {
+	font-size: 34px;
+
+}
+/***********************/
+.pages .block{
+    flex-wrap: wrap;
+    justify-content: center;
+}
+
+}
+
+/* Small Devices, Tablets */
+@media only screen and (max-width : 768px) {
+	.scroll{
+		display:none;
+	}
+	
+    h1{
+        font-size: 30px;
+    }    
+    
+h1 img {
+	margin-right: 10px;
+	height: 23px;
+}
+
+
+p{
+    font-size: 18px;
+}
+
+h2{
+    font-size: 34px;
+}
+/**************/
+.header .h_right1 {
+	margin-top: 0px;
+}
+
+
+/********************************/    
+    .banner{
+        background: none;
+        height: auto;
+    }    
+    
+    .banner .banner_block .ban_hh1{
+        padding-left: 0px;
+        text-align: center;
+    }    
+    
+    .banner .banner_block .flex{
+        flex-wrap: wrap;
+    }
+
+/***************************************/
+.ostek .ostek_block{
+    margin-left: 5px;
+    margin-right: 5px;
+}
+/***************************************/
+.acs .ostek_block{
+    margin-left: 5px;
+    margin-right: 5px;
+}
+/***************************************/
+.plok .ostek_block{
+    margin-left: 5px;
+    margin-right: 5px;
+}
+    
+/***************************************/
+.davar .ostek_block{
+    margin-left: 5px;
+    margin-right: 5px;
+}
+    
+/***********************************/
+.prof .prof_block{
+    margin-left: 5px;
+    margin-right: 5px;
+}
+
+/**************************************/
+.prof_conf .sw_block .bl_pl, .prof_conf .sw_block .bl_al {
+	width: 100%;
+	font-size: 16px;
+	max-width: 147px;
+}
+
+/******************************************/
+.bal100 .b100_flex1 .b100_form .b100_flex2 {
+	flex-wrap: wrap;
+}
+
+/*******************************************/
+.z_price .zp_block h2 span{
+    font-size: 25px;
+}
+
+.z_price .zp_block p{
+    font-size: 20px;
+}
+
+/****************************************/
+.vygodno .tab .vy_dop.vy_2{
+    display: none;
+}
+
+/***********************************/
+
+.zr .zr_block .zr_hh{
+    font-size: 26px;
+}
+
+.zr .zr_block p{
+    font-size: 23px;
+}
+
+/*******************************************/
+.gift .gift_flex1{
+    flex-wrap: wrap;
+}
+
+.gift .media{
+    display: block;
+    padding-left: 5px;
+    padding-right: 5px;
+ 
+}
+
+
+.gift .gift_right h2{
+    display: none;
+}
+.gift .gift_right p{
+    display: none;    
+}
+
+.gift h2{
+    font-size: 35px;
+}
+
+.gift p{
+    font-size: 24px;
+    text-align: center;
+}
+
+
+
+.gift .gift_flex2{
+    flex-wrap: wrap;
+    
+}
+
+.gift .razmetka1{
+    margin-top: 20px;
+}
+
+.gift .btn1{
+        margin-top: 20px;
+}
+
+/********************************/
+
+.carousel-pro .pro_block .pro_right .pro_hh{
+    font-size: 24px;
+}
+.carousel-pro .pro_block .pro_right .text{
+    font-size: 16px;
+}
+
+.carousel-pro .pro_block .pro_right .text span{
+    font-size: 18px;
+}
+
+.carousel-pro .pro_block .pro_left{
+    padding: 5px;
+}
+
+/****************************************/
+.video .video_block .vid_left .hh1{
+    font-size: 50px;
+}
+.video .video_block .vid_left .hh2{
+    font-size: 40px;
+}
+.video .video_block .vid_left .hh3{
+    font-size: 23px;
+}
+
+.video .carousel-video.owl-theme .owl-controls {
+	left: 50%;
+	margin-left: -124px;
+	top: 136px;
+}
+
+.video .thumb-wrap {
+	margin-top: 7px;
+	margin-bottom: 8px;
+}
+
+/***************************************/
+.cons{
+    background: #ffcd00;
+    height: auto;
+    padding-bottom: 20px;
+}
+
+.cons .agree{
+    margin-top: 0px;
+}
+
+/******************************************/
+.fea_provedal .sp1 li {
+	background: url("../img/sp1.png") no-repeat center top;
+	padding-top: 63px;
+	padding-left: 15px;
+	padding-right: 15px;
+        margin-top: 20px;
+}
+
+.fea_provedal .sp1 li .hh{
+    font-size: 26px;
+}
+
+.fea_provedal .sp1 li .txt{
+    font-size: 21px;
+}
+
+
+/*********************************************/
+.polutep .polutep_block .polutep_info .msg{
+    font-size: 14px;
+}
+
+.polutep .polutep_block .polutep_info .hhh{
+    font-size: 10px;
+}
+
+.polutep .polutep_block .polutep_info .ttt{
+    font-size: 21px;
+    padding-left: 5px;
+    padding-right: 5px;
+}
+.polutep .polutep_block .polutep_info .ttt1{
+    font-size: 7px;
+    padding-left: 5px;
+}
+
+.polutep .polutep_block .polutep_info .ttt2{
+    font-size: 10px;
+        padding-left: 5px;
+    padding-right: 5px;
+}
+
+.polutep .polutep_block .polutep_info .t_bb .ban_pr{
+   font-size: 20px;
+font-weight: 900; 
+color:#d7210e;
+}
+
+.polutep .polutep_block .polutep_info .t_bb .ban_pr span{
+    font-size: 30px;
+}
+
+/***********************************/
+.prof_sys .profsys_blocks{
+    flex-wrap: wrap;
+    padding: 5px;
+}
+
+/******************************************/
+.fea_teplo .sp1 li {
+	background: url("../img/sp1.png") no-repeat center top;
+	padding-top: 63px;
+	padding-left: 15px;
+	padding-right: 15px;
+        margin-top: 20px;
+}
+
+.fea_teplo .sp1 li .hh{
+    font-size: 26px;
+}
+
+.fea_teplo .sp1 li .txt{
+    font-size: 21px;
+}
+
+/************************************/
+.fea_teplo .important p{
+    font-size: 26px;
+    font-weight: normal;
+}
+.fea_fr .sp1 li {
+	background: url("../img/sp1.png") no-repeat center top;
+	padding-top: 63px;
+	padding-left: 15px;
+	padding-right: 15px;
+        margin-top: 20px;
+}
+
+.fea_fr .sp1 li .hh{
+    font-size: 26px;
+}
+
+.fea_fr .sp1 li .txt{
+    font-size: 21px;
+}
+
+.fea_fr .important p{
+    font-size: 26px;
+    font-weight: normal;
+}
+/*******************************************/
+.fea_utep .sp1 li {
+	background: url("../img/sp1.png") no-repeat center top;
+	padding-top: 63px;
+	padding-left: 15px;
+	padding-right: 15px;
+        margin-top: 20px;
+}
+
+.fea_utep .sp1 li .hh{
+    font-size: 26px;
+}
+
+.fea_utep .sp1 li .txt{
+    font-size: 21px;
+}
+
+.fea_utep .important p{
+    font-size: 26px;
+    font-weight: normal;
+}
+/*******************************************/
+.fea_vyn .sp1 li {
+	background: url("../img/sp1.png") no-repeat center top;
+	padding-top: 63px;
+	padding-left: 15px;
+	padding-right: 15px;
+        margin-top: 20px;
+}
+
+.fea_vyn .sp1 li .hh{
+    font-size: 26px;
+}
+
+.fea_vyn .sp1 li .txt{
+    font-size: 21px;
+}
+
+.fea_vyn .important p{
+    font-size: 26px;
+    font-weight: normal;
+}
+/*******************************************/
+.fea_kom .sp1 li {
+	background: url("../img/sp1.png") no-repeat center top;
+	padding-top: 63px;
+	padding-left: 15px;
+	padding-right: 15px;
+        margin-top: 20px;
+}
+
+.fea_kom .sp1 li .hh{
+    font-size: 26px;
+}
+
+.fea_kom .sp1 li .txt{
+    font-size: 21px;
+}
+
+.fea_kom .important p{
+    font-size: 26px;
+    font-weight: normal;
+}
+
+/*************************************/
+.comp .comp_block{
+    flex-wrap: wrap;
+    padding-left: 10px;
+    padding-right: 10px;
+}
+.comp .comp_block  .texts{
+    padding-left: 0px;
+    
+}
+.comp .comp_block  .texts .hh{
+    font-size: 24px;
+    padding-top: 10px;
+    padding-bottom: 10px;
+}
+
+.comp .comp_block  .texts .tt{
+    font-size: 18px;
+    text-align: justify;
+}
+
+/*************************************/
+.pan {
+    padding-left: 15px;
+    padding-right: 15px;
+}
+.pan .pan_flex h3{
+    font-size: 24px;
+}
+
+/************************/
+.img_lenta img{
+        padding-left: 15px;
+    padding-right: 15px;
+}
+
+/**************************************/
+.vynos .iii{
+    font-size: 25px;
+}
+
+/*************************************/
+
+.otd_banner{
+    background: none;
+    height: auto;
+}
+
+.otd_banner .banner_block .ban_hh1{
+    font-size: 55px;
+    line-height: 48px;
+    padding-left: 0;
+}
+
+.otd_banner .banner_block .ban_hh1 span{
+    font-size: 27px;
+}
+
+.otd_banner .banner_block .ban_hh2{
+  font-size: 46px;  
+  padding-left: 0;
+      line-height: 40px;
+
+}
+
+.otd_banner .banner_block .ban_hh3{
+  font-size: 24px;  
+  padding-left: 0;   
+max-width: 100%;
+}
+
+.otd_banner .ban_hh4{
+    margin-left: 0px;
+    max-width: 100%;
+
+        font-size: 27px;
+padding-left: 0px;
+padding-right: 0px;
+    
+}
+
+.otd_banner .banner_block .pr55 {
+	background-size: auto 100%;
+	margin-left: auto;
+	margin-right: auto;
+	max-width: 319px;
+	padding-right: 129px;
+	height: 75px;
+	margin-bottom: 21px;
+}
+/*************************************/
+
+.da_banner{
+    background: none;
+    height: auto;
+}
+
+.da_banner .banner_block .ban_hh1{
+    font-size: 46px;
+    line-height: 48px;
+    padding-left: 0;
+}
+
+.da_banner .banner_block .ban_hh1 span{
+    font-size: 27px;
+}
+
+.da_banner .banner_block .ban_hh2{
+  font-size: 46px;  
+  padding-left: 0;
+      line-height: 40px;
+
+}
+
+.da_banner .banner_block .ban_hh3{
+  font-size: 24px;  
+  padding-left: 0;   
+max-width: 100%;
+}
+
+
+
+.da_banner .banner_block .pr55 {
+	background-size: auto 100%;
+	margin-left: auto;
+	margin-right: auto;
+	max-width: 319px;
+	padding-right: 129px;
+	height: 75px;
+	margin-bottom: 21px;
+}
+
+/******************************************/
+.akcii .act_blocks .act_block{
+    flex-wrap: wrap;
+}
+
+.akcii .act_blocks .act_block .act_right h2{                                                
+    margin-top: 20px;
+    text-align: center;
+font-size: 34px;
+}
+
+.akcii .act_blocks .act_block .act_right p{
+
+font-size: 18px;
+}
+.akcii .act_blocks .act_block .act_right{
+    padding-left: 0px;
+}
+
+/***************************************************/
+.gift2{
+    padding-left: 15px;
+    padding-right: 15px;
+}
+.gift2 h3{
+    font-size: 24px;
+}
+/***************************************/
+.dost{
+    padding-left: 15px;
+    padding-right: 15px;
+}
+.dost .dost_blocks{
+    flex-wrap: wrap;
+}
+
+.dost .dost_blocks .dost_right h3{
+    font-size: 24px;
+}
+
+/************************************/
+
+.ceny{
+    padding-left: 15px;
+    padding-right: 15px;
+}
+
+/************************************/
+
+.calc .buttons .vert{
+    display: none;
+}
+.calc .oc_type_text {
+	position: relative;
+	width: 100%;
+	top: auto;
+	text-align: center;
+}
+
+.o_calc #m1 {
+    left: 8px;
+}
+
+.o_calc #m2 {
+    left:80px;
+}
+
+.o_calc #m3 {
+    left:170px;
+}
+
+.o_calc #m4 {
+    left:287px;
+}
+
+.o_calc .oc_type_menu {
+    width: 352px;
+}
+
+.calc .maket img{
+    max-width: 400px;
+}
+
+.calc .calc_main .calc_left .middle_block {
+	margin-top: 30px;
+}
+
+
+.calc .horiz .ui-slider-horizontal {
+    width: 308px;
+    margin-right: 30px;
+}
+
+.calc .p55_f{
+    display: none;
+}
+
+.calc .bottom_block .vert {
+	display: none;
+}
+
+.calc .maket {
+	max-width: 409px;
+}
+
+.calc .vert {
+	max-width: 94px;
+}
+.calc .p55_s{
+    display:block;
+}
+
+/**************************************/
+.g_okna .go_blocks .go_block h2{
+    font-size: 24px;
+}
+
+.g_okna .go_blocks .go_block .prpr .prz{
+    font-size: 32px;
+}
+
+.g_okna .go_blocks .go_block .prpr .prr{
+    font-size: 48px;
+}
+
+
+/*****************************************/
+
+.links .str_block .links_txtblock p{
+    text-align: justify;
+}
+
+.links .str_block .btn1{
+    margin-left: auto;
+    margin-right: auto;
+}
+
+.links .str_block .links_imgblock img{
+    width:100%;
+    
+}
+
+
+/**********************************************/
+
+.calc .oc_type_menu .b_submenu{
+    flex-wrap: wrap;
+}
+
+.calc .b_type{
+    margin: 5px;
+}
+
+/*********************************************/
+.otz .otz_block{
+    flex-wrap: wrap;
+}
+
+.otz .otz_block .otz_right{
+    border-radius: 0px;
+}
+
+/**********************************************/
+
+.obanner{
+    margin-top: 0px;
+    padding-top: 0px;
+}
+
+.obanner .banner_block .ban_hh1{
+    font-size: 40px;
+}
+
+.obanner .banner_block .ban_hh1 span{
+    font-size: 29px;
+}
+
+.obanner .banner_block .ccc{
+    margin-top: 15px;
+    border-radius: 0px;
+    flex-wrap: wrap;
+}
+
+.obanner .banner_block{
+    padding: 0px;
+}
+
+.obanner .banner_block .ban_block{
+    padding: 10px;
+}
+
+.obanner .banner_block .ccc .ccc_hh{
+    text-align: center;    
+}
+
+.obanner .ban_calc_link{
+    padding-left: 10px;
+    padding-right: 10px;
+}
+
+/********************************************/
+.lam .lam_main .right_side {
+	flex-wrap: wrap;
+}
+.lam .okno {
+	position: relative;
+	background: url("../img/lam_bg1.jpg") no-repeat right center;
+	width: 257px;
+	height: 396px;
+	margin-left: 50px;
+	order: 2;
+}
+.lam .lam_main .right_side .l_colors {
+	background: none;
+	height: auto;
+	margin-bottom: 20px;
+}
+
+/********************************************/
+
+.time .time_block .l1,
+.time .time_block .l3 {
+
+	font-size: 36px;
+}
+.time .time_block .l2 {
+	font-size: 28px;
+}
+.time .time_block .l4 {
+	font-size: 24px;
+}
+
+.time .flex{
+    flex-wrap: wrap;
+    width: 100%;
+}
+
+.time .btn1{
+    margin-top: 20px;
+}
+/********************************************/
+
+.dom .time_block .l1,
+.dom .time_block .l2 {
+
+	font-size: 36px;
+}
+
+
+.dom .flex{
+    flex-wrap: wrap;
+    width: 100%;
+}
+
+.dom .btn1{
+    margin-top: 20px;
+}
+
+/*****************/
+.daban .m_block .hh {
+	font-size: 26px;
+	text-align: center;
+}
+/*****************/
+.evars .m_block .hh {
+	font-size: 26px;
+	text-align: center;
+}
+/*****************/
+.dadoors .m_block .hh {
+	font-size: 26px;
+	text-align: center;
+}
+.ror .l_block .bb_bottom,
+.mansok .l_block .bb_bottom,
+.portal .l_block .bb_bottom,
+.daban .l_block .bb_bottom {
+	padding: 10px;
+}
+
+.evars .l_block .bb_bottom {
+	padding: 10px;
+}
+
+
+.portal{
+    padding-left: 15px;
+    padding-right: 15px;
+}
+
+
+/*****************/
+.otdll .hh {
+	font-size: 25px;
+}
+/**********************/
+.letap .let_blocks .num {
+	font-size: 84px;
+	line-height: normal;
+	padding-left: 15px;
+}
+.letap .let_blocks .block .hh {
+	font-size: 30px;
+}
+.letap .let_blocks .block p {
+	font-size: 19px;
+}
+
+.letap .let_blocks .block ul li {
+	font-size: 21px;
+}
+
+/************************************/
+.pth .tbl .ttr{
+    flex-wrap: wrap;
+    justify-content: center;
+}
+
+.pth .tbl .block1{
+    max-width: 100%;
+    border-right:none;
+}
+.pth .tbl .block2{
+    max-width: 100%;    
+}
+/************************************/
+.peth .tbl .ttr{
+    flex-wrap: wrap;
+    justify-content: center;
+}
+
+.peth .tbl .block1{
+    max-width: 100%;
+    border-right:none;
+}
+.peth .tbl .block2{
+    max-width: 100%;    
+}
+/****************************/
+.rd .warn .hh {
+	color: #000;
+	width: 284px;
+	font-size: 30px;
+}
+
+/************************/
+.hhh.pp {
+	font-size: 29px;
+}
+
+/**************************/
+.cat{
+background:  #f3f3f4;
+min-height: auto;
+padding-bottom: 20px;
+padding-left: 10px;
+padding-right: 10px;
+}
+
+.cat .hh {
+	font-size: 28px;
+}
+
+.cat .eml {
+	font-size: 25px;
+}
+
+/**************************/
+.rvpo .vv{
+    flex-wrap: wrap;
+    justify-content: space-around;
+}
+
+.rvpo .dtab .br .hh {
+	font-size: 38px;
+	font-weight: bold;
+	text-align: center;
+}
+
+.rvpo .dtab .br {
+	margin-top: 10px;
+}
+
+.rvpo .dtab .cc ul {
+	justify-content: space-around;
+	max-width: 100%;
+}
+/**************************/
+.fstp .vv{
+    flex-wrap: wrap;
+    justify-content: space-around;
+}
+
+
+.fstp .dtab .br .hh {
+	font-size: 31px;
+	font-weight: bold;
+	text-align: center;
+}
+
+.fstp .dtab .br {
+	margin-top: 10px;
+        padding-left: 20px;
+}
+
+
+
+
+/******************************/
+
+.zod .block{
+    flex-wrap: wrap;
+}
+
+/*******************************/
+.dostavka{
+    background: #f3f3f4;
+    min-height: auto;
+}
+
+.dostavka .bb_block .hh {
+	font-size: 37px;
+}
+
+.dostavka .bb_block .pp {
+	font-size: 29px;
+}
+.dostavka .bb_block ul {
+    margin-right: auto;
+}
+/*******************************/
+.spec{
+    background: #f3f3f4;
+    min-height: auto;
+    padding-left: 10px;
+    padding-right: 10px;
+}
+
+.spec .bb_block .hh {
+	font-size: 30px;
+}
+
+.spec .bb_block .pp2,
+.spec .bb_block .pp {
+	font-size: 20px;
+}
+
+
+/**************/
+.sklad ul li, 
+.sklad ul li.v1{
+  max-width: 427px;  
+} 
+
+
+/*****************/
+.pod ul li {
+    font-size: 21px;
+
+}
+
+/**********************/
+
+.msnf .bb_block .hh{
+    font-size: 30px;
+}
+
+/************************/
+.vstp .bl{
+    padding-left: 10px;
+    padding-right: 10px;
+}
+
+/******************/
+.colo ul li {
+	font-size: 20px;
+
+}
+
+/***************************/
+.bpn{
+    background-size: cover;
+}
+
+/***************************/
+.cov .hh_block .hh,
+.cov .hh_block .sub {
+	line-height: normal;
+}
+
+
+
+}
+
+
+
+
+/* Extra Small Devices, Phones */
+@media only screen and (max-width : 480px) {
+    .top_menu{
+        padding-top: 10px;
+        padding-bottom: 10px;
+    }     
+    
+    .top_menu .flex{
+          flex-direction: column;  
+    }  
+
+/***************************************/
+
+.banner{
+    padding-top: 0px;
+}
+
+.banner .banner_block .ban_hh1,
+.banner .banner_block .ban_hh1 span{
+    font-size: 46px;
+}
+
+.banner .banner_block .ban_calc_link img{
+    margin-top: 20px;
+} 
+
+/*********************/
+.ostek .btn1{
+    margin-top: 20px;
+}
+/*********************/
+.acs .btn1{
+    margin-top: 20px;
+}
+/*********************/
+.plok .btn1{
+    margin-top: 20px;
+}
+.davar .btn1{
+    margin-top: 20px;
+}
+
+.oplata .oplata_bl{
+    font-size: 24px;
+}
+.osl .osl_bl{
+    font-size: 24px;
+}
+/***************************/
+.prof_conf .bal_right .cf_info1 {
+	background: url("../img/cf_info1.png") no-repeat left top;
+        max-width: 320px;
+        height: 100px;
+	background-size: 100% auto;
+	text-align: center;
+	color: #fff;
+	font-size: 25px;
+	font-weight: bold;
+	text-transform: uppercase;
+	padding-top: 13px;
+	margin-left: auto;
+	margin-right: auto;
+	width: 100%;
+        padding-right: 10px;
+        padding-left: 10px;
+}
+
+.prof_conf .bal_right .cf_feature {
+	font-size: 28px;
+}
+
+.prof_conf .bal_right .cf_info2 {
+	width: 320px;
+	height: 90px;
+	background-size: 100% 100%;
+	font-size: 25px;
+	padding-top: 19px;
+}
+
+.prof_conf .variants_gal {
+	max-width: 310px;
+}
+.prof_conf .variants_gal div {
+	width: 54px;
+	height: 54px;
+	margin-left: 2px;
+	margin-right: 2px;
+}
+.prof_conf .bal_left .bal_bg .prof_tmp {
+	right: 50%;
+	margin-right: -145px;
+}
+
+/*******************************************/
+.bal100 h1 {
+	font-size: 34px;
+	font-weight: 900;
+	padding-left: 15px;
+	padding-right: 15px;
+}
+.bal100 .b100_flex1 .b100_form h3 {
+	font-size: 24px;
+	padding-top: 20px;
+}
+
+/********************************************/
+.key .key_block .key_price_block .k_hh{
+    font-size: 15px;
+    width: auto;
+}
+
+.key .key_block .key_price_block .k_old{
+    font-size: 18px;
+}
+.key .key_block .key_price_block .k_new{
+    font-size: 20px;
+}
+
+.key .z {
+	width: 86px;
+	left: 50%;
+	margin-left: -40px;
+}
+
+/*******************************************/
+
+.cons .cons_block .cons_hh{
+    font-size: 34px;
+}
+
+.cons .cons_block .cons_tel{
+    font-size: 34px;
+}
+
+.cons .cons_block .cons_msg{
+    font-size: 21px;
+}
+
+/*****************************************/
+.provedal .provedal_block h3{
+   font-size: 21px; 
+}
+
+.provedal .provedal_block .msg {
+    font-size: 14px;
+}
+
+.provedal .provedal_block ul li div {
+	color: #fff;
+	background: #d7210e;
+	font-size: 27px;
+	font-weight: 900;
+	float: right;
+	width: 82px;
+	margin-top: -8px;
+        height: 37px;
+}
+.provedal .provedal_block ul li div.sm div {
+	font-size: 10px;
+	font-weight: 300;
+	float: none;
+	margin-top: 0;
+}
+
+.provedal .provedal_block ul li div.sm {
+	font-size: 22px;
+	height: 36px;
+	line-height: 16px;
+}
+.provedal .provedal_block ul li {
+	padding-left: 65px;
+	font-size: 14px;
+	font-weight: 300;
+	height: 38px;
+	border-top: 1px solid #e5e5e5;
+	padding-top: 8px;
+}
+.provedal .provedal_block ul li sup {
+	font-size: 11px;
+}
+
+/********************************************/
+.g_resh .key_block .key_price_block .k_hh{
+    font-size: 15px;
+    width: auto;
+}
+
+.g_resh .key_block .key_price_block .k_old{
+    font-size: 18px;
+}
+.g_resh .key_block .key_price_block .k_new{
+    font-size: 20px;
+}
+
+.g_resh .z {
+	width: 86px;
+	left: 50%;
+	margin-left: -40px;
+}
+/*********************************/
+.remont.ostek .ostek_block{
+    height:auto;
+}
+
+.remont{
+    padding-left: 15px;
+    padding-right: 15px;
+}
+/*********************************/
+.utep.ostek .ostek_block{
+    height:auto;
+}
+
+.utep{
+    padding-left: 15px;
+    padding-right: 15px;
+}
+/*********************************/
+.pol.ostek .ostek_block{
+    height:auto;
+}
+
+.pol{
+    padding-left: 15px;
+    padding-right: 15px;
+}
+/*********************************/
+.vynos.ostek .ostek_block{
+    height:auto;
+}
+/*********************************/
+.roof.ostek .ostek_block{
+    height:auto;
+}
+/*********************************/
+.komnata.ostek .ostek_block{
+    height:auto;
+}
+.naruzh.ostek .ostek_block{
+    height:auto;
+}
+.vnutr.ostek .ostek_block{
+    height:auto;
+}
+.mebel.ostek .ostek_block{
+    height:auto;
+}
+
+/********************************************/
+
+.ceny .hh {
+	font-size: 18px;
+}
+
+
+.ceny .pos {
+	font-size: 16px;
+}
+
+.ceny .pr {
+	font-size: 19px;
+}
+
+/********************************/
+.calc .buttons{
+    flex-wrap: wrap;
+}
+
+.calc .buttons .btn1,
+.calc .buttons .btn5{
+    margin-top: 10px;
+}
+
+.o_calc .oc_type_menu {
+	width: 174px;
+	margin-left: auto;
+	margin-right: auto;
+	height: 200px;
+}
+
+.o_calc #m1 {
+	left: 80px;
+        z-index: 15;
+        margin-left: -80px;
+}
+.o_calc #m2 {
+	left: 170px;
+        z-index: 15;
+        margin-left: -80px;
+}
+.o_calc #m3 {
+	left: 80px;
+	top: 117px;
+        z-index: 14;
+        margin-left: -80px;
+}
+.o_calc #m4 {
+	left: 195px;
+	top: 108px;
+        z-index: 14;
+        margin-left: -80px;
+}
+
+.calc .maket img {
+max-width: 210px;
+max-height: 208px;
+}
+.calc .maket {
+	height: 255px;
+        max-width: 263px;
+}
+
+.calc .horiz {
+	padding-right: 10px;
+}
+.calc .horiz .ui-slider-horizontal {
+	width: 215px;
+	margin-right: auto;
+	margin-left: auto;
+}
+
+.calc .vert {
+	margin-left: 20px;
+        max-width: 43px;
+}
+
+/**************************************/
+
+.otz .otz_block .otz_right .hh{
+    flex-wrap: wrap;
+    justify-content: space-around;
+}
+
+/**************************************/
+
+.obanner .banner_block .ccc .ccc_hh{
+    font-size: 24px;
+}
+
+.obanner .banner_block .ccc .pr_uvseh{
+    font-size: 40px;
+    margin-top: 0px;
+}
+
+.obanner .banner_block .ccc .pr_uvseh span{
+    font-size: 48px;
+}
+
+.obanner .banner_block .ccc .pr_unas{
+    font-size: 54px;
+}
+
+.obanner .banner_block .ccc .pr_unas span{
+  font-size: 72px;  
+}
+
+/***************************************/
+.lam .lam_main .l_block img {
+	width: 88px;
+}
+
+/********************************************/
+
+.bconfig .c_flex{
+    flex-wrap: wrap;
+}
+.bconfig .sub_block {
+	padding-bottom: 10px;
+margin-left: 5px;
+margin-right: 5px;
+}
+
+.bconfig .c_bg {
+	
+}
+
+.bconfig .bb_blocks {
+        background: url('../img/conf_bg.png') repeat-y center top;
+}
+
+/*************/
+.daban .l_block {
+	padding-left: 15px;
+        padding-right: 15px;
+}
+/*************/
+.ror .l_block {
+	padding-left: 15px;
+        padding-right: 15px;
+}
+/*************/
+.mansok .l_block {
+	padding-left: 15px;
+        padding-right: 15px;
+}
+/*************/
+.evars .l_block {
+	padding-left: 15px;
+        padding-right: 15px;
+}
+/*************/
+.portal .l_block {
+	padding-left: 15px;
+        padding-right: 15px;        
+}
+/********************************/
+.zag .dtab .msg .hh {
+	font-size: 22px;
+
+}
+/******************************/
+.carousel-design.owl-theme .owl-controls .owl-nav [class*="owl-"] {
+	top: 8%;
+
+}
+
+/*****************************/
+.letap .let_blocks {
+	justify-content: center;
+	flex-wrap: wrap;
+	text-align: center;
+}
+
+/******************************/
+.dnb .br p {
+	font-size: 18px;
+	text-align: justify;
+}
+
+.dnb .br .pr_block{
+    text-align: center;
+}
+/******************************/
+.itf .br p {
+	font-size: 18px;
+	text-align: justify;
+}
+
+.itf .br .pr_block{
+    text-align: center;
+}
+/******************************/
+.kip .br p {
+	font-size: 18px;
+	text-align: justify;
+}
+
+.kip .br .pr_block{
+    text-align: center;
+}
+/******************************/
+.mpnb .br p {
+	font-size: 18px;
+	text-align: justify;
+}
+
+.mpnb .br .pr_block{
+    text-align: center;
+}
+/**********************/
+.nd .block {
+	font-size: 23px;
+	padding-top: 0px;
+}
+
+/*************************/
+.ndto .block .sub .hh {
+	font-size: 20px;
+}
+/*************************/
+.links1 .block .sub .hh {
+	font-size: 20px;
+}
+
+
+/*************************/
+
+.pvar .br .l1 {
+	font-size: 22px;
+}
+
+.pvar .br .l2 {
+	font-size: 25px;
+}
+
+/*******************************/
+.pwhy .block .hh {
+	font-size: 30px;
+}
+
+/****************************/
+.kipnl .block .txt {
+	font-size: 22px;
+}
+/****************************/
+.opara .block .txt {
+	font-size: 22px;
+}
+
+/******************************/
+.mpnb .hh {
+	font-size: 23px;
+
+}
+
+/*********************/
+.pkogda h2 {
+	font-size: 25px;
+}
+
+.pkogda p{
+    padding-left: 10px;
+    padding-right: 10px;
+}
+
+/*********************/
+.mpbn h2 {
+	font-size: 25px;
+}
+
+.mpbn .block .txt {
+	font-size: 22px;
+}
+
+/************************/
+.warn .txt {
+	padding: 19px;
+	font-size: 24px;
+	font-weight: 500;
+}
+
+
+/*********************/
+.elp{
+     margin-top: 0px;
+}
+
+.elp h2 {
+	font-size: 25px;
+}
+
+.elp p{
+    padding-left: 10px;
+    padding-right: 10px;
+}
+.elp .block .txt {
+	font-size: 22px;
+}
+
+.elp .block .txt a {
+	font-size: 28px;
+}
+/*********************/
+.pepp{
+     margin-top: 0px;
+}
+
+.pepp h2 {
+	font-size: 25px;
+}
+
+.pepp p{
+    padding-left: 10px;
+    padding-right: 10px;
+}
+.pepp .block .txt {
+	font-size: 22px;
+}
+
+.pepp .block .txt a {
+	font-size: 28px;
+}
+/*********************/
+.kpm{
+     
+}
+
+.kpm h2 {
+	font-size: 25px;
+}
+
+.kpm p{
+    padding-left: 10px;
+    padding-right: 10px;
+}
+.kpm .block .txt {
+	font-size: 22px;
+}
+
+.kpm .block .txt a {
+	font-size: 28px;
+}
+/************************/
+
+.evars .item {
+	font-size: 20px;
+}
+
+/******************************/
+.itf .item {
+	font-size: 21px;
+}
+/***************************/
+.pi .b1.block .txt {
+	font-size: 22px;
+}
+/***********************/
+.ppp .block .hh{
+    text-align: center;
+}
+/********************/
+.pee .b1.block .txt {
+	font-size: 20px;
+	margin-left: 10px;
+	font-weight: bold;
+}
+
+/*************************/
+.pul h2{
+    font-size: 23px;
+}
+    
+/*************************/
+.sklad .l1 {
+	font-size: 24px;
+}
+
+/*****************************/
+.hm .br ul li {
+	font-size: 25px;
+}
+
+/******************************/
+.osp .br p {
+	font-size: 20px;
+}
+.osp .bll .pp {
+	font-size: 25px;
+
+}
+/****************************/
+.sp .l_block .bb_bottom .ban_pr {
+	font-size: 21px;
+	font-weight: 900;
+}
+.sp  .l_block.lb1{
+            background-size: cover;
+}
+.sp  .l_block.lb2{
+            background-size: cover;
+}
+
+/****************************/
+.header .h_right1 {
+	font-size: 18px;
+}
+.header .h_right2 {
+	font-size: 16px;
+	max-width: 165px;
+	margin-top: 2px;
+}
+.header .div_logo {
+	padding: 0px;
+}
+.header .div_logo img{
+    width: 100%;
+}
+
+.menu .main .mobile2 {
+	justify-content: flex-start;
+}
+
+/****************************/
+.sov2 .hh {
+	font-size: 29px;
+}
+/*************************/
+.sov3 .bl ul li {
+	font-size: 21px;
+}
+
+/*************************/
+.msg3 .warn .txt,
+.msg1 .warn .txt{
+        background: url('../img/libg.png') no-repeat center top;
+        padding-left: 0px;
+        padding-top: 65px;
+        text-align: center;
+        padding-right: 0px;
+}
+
+/****************/
+.osv .block{
+    min-height: auto;
+}
+
+
+/***********************/
+.pmb .hh {
+	font-size: 28px;
+}
+.pmb .br ul li {
+	font-size: 26px;
+	padding-top: 6px;
+}
+
+/*********************************/
+.zvv p {
+	font-size: 22px;
+
+}
+
+.zvv ul li {
+    font-size: 24px;
+}
+
+/******************************/
+.stp .block .pp {
+	font-size: 20px;
+}
+
+/******************************/
+.msg4 .warn .txt {
+	font-size: 27px;
+}
+
+/*******************************/
+.sh .warn .hh {
+
+	max-width: 269px;
+        font-size: 30px;
+}
+
+.sh .warn ul li {
+	font-size: 21px;
+}
+
+/********************/
+.faq .q .hh {
+	font-size: 16px;
+
+}
+
+/***********************/
+.alpr .block p {
+	font-size: 25px;
+}
+.alpr .warn .txt {
+	font-size: 29px;
+}
+/***********************/
+.usil .us_block ul li {
+	font-size: 23px;
+}
+/*************************************/
+.alc .block ul li{
+	font-size: 23px;
+}
+
+/**************************/
+.cov{
+    padding-left: 5px;
+    padding-right: 5px;
+}
+.cov .hh_block .hh {
+	font-size: 32px;
+}
+.cov .hh_block .hh {
+	font-size: 32px;
+}
+
+/***********************/
+.pages .hh {
+	font-size: 25px;
+}
+
+/****************/
+.page h3{
+  /*  text-align: center;*/
+}
+
+.video .thumb-wrap .img_video {
+	margin-top: -50px;
+}
+
+
+}
+
+
+
+
+/* Custom, iPhone Retina */
+@media only screen and (max-width : 320px) {
+
+}
+
+
+/*==========  Mobile First Method  ==========*/
+
+/* Custom, iPhone Retina */
+@media only screen and (min-width : 320px) {
+
+}
+
+/* Extra Small Devices, Phones */
+@media only screen and (min-width : 480px) {
+
+}
+
+/* Small Devices, Tablets */
+@media only screen and (min-width : 768px) {
+
+}
+
+/* Medium Devices, Desktops */
+@media only screen and (min-width : 992px) {
+
+}
+
+ /* Large Devices, Wide Screens */
+@media only screen and (min-width : 1200px) {
+.container {
+    max-width: 1170px;
+}
+}
