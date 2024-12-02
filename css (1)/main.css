@@ -10929,7 +10929,8 @@ div[class*="col-"] {
 
 /****************************/
 .dom {
-  background: url("/img/dom_dg.jpg") no-repeat center top;
+  background: url("https://kriswis.github.io/balkon-nedorogo54.ruCopy/img/dom_dg.jpg")
+    no-repeat center top;
   padding-top: 40px;
   padding-bottom: 30px;
   margin-top: 40px;
