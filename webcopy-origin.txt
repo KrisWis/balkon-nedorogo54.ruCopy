@@ -1390,8 +1390,8 @@ Uri: https://balkon-nedorogo54.ru/wp-content/uploads/2019/12/logo-300x58.png
 File Name: C:\Downloaded Web Sites\balkon-nedorogo54.ru\wp-content\uploads\2019\12\logo-300x58.png
 Content Type: image/png
 
-Uri: https://balkon-nedorogo54.ru/wp-content/uploads/2019/12/logo.png
-File Name: C:\Downloaded Web Sites\balkon-nedorogo54.ru\wp-content\uploads\2019\12\logo.png
+Uri: https://balkon-nedorogo54.ru/img/logo.png
+File Name: C:\Downloaded Web Sites\balkon-nedorogo54.ru\wp-content\uploads\2019\12\img/logo.png
 Content Type: image/png
 
 Uri: https://balkon-nedorogo54.ru/wp-content/uploads/2019/12/mebel11.jpg
