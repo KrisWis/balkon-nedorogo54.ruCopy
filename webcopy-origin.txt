@@ -1086,15 +1086,15 @@ Uri: https://balkon-nedorogo54.ru/wp-content/themes/balkoni/style.css?ver=5.9.10
 File Name: C:\Downloaded Web Sites\balkon-nedorogo54.ru\wp-content\themes\balkoni\style.css
 Content Type: text/css
 
-Uri: https://balkon-nedorogo54.ru/img/customphoto1.jpg
+Uri: https://balkon-nedorogo54.ru/https://kriswis.github.io/balkon-nedorogo54.ruCopy/img/customphoto1.jpg
 File Name: C:\Downloaded Web Sites\balkon-nedorogo54.ru\wp-content\uploads\2019\12\11.jpg
 Content Type: image/jpeg
 
-Uri: https://balkon-nedorogo54.ru/img/customphoto2.jpg
+Uri: https://balkon-nedorogo54.ru/https://kriswis.github.io/balkon-nedorogo54.ruCopy/img/customphoto2.jpg
 File Name: C:\Downloaded Web Sites\balkon-nedorogo54.ru\wp-content\uploads\2019\12\12.jpg
 Content Type: image/jpeg
 
-Uri: https://balkon-nedorogo54.ru/img/customphoto3.jpg
+Uri: https://balkon-nedorogo54.ru/https://kriswis.github.io/balkon-nedorogo54.ruCopy/img/customphoto3.jpg
 File Name: C:\Downloaded Web Sites\balkon-nedorogo54.ru\wp-content\uploads\2019\12\13.jpg
 Content Type: image/jpeg
 
